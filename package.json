@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/andres87mx/curso-spa-vanilla-js/issues"
   },
-  "homepage": "https://github.com/andres87mx/curso-spa-vanilla-js#readme"
+  "homepage": "https://github.com/andres87mx/curso-spa-vanilla-js#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.44.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
 }
